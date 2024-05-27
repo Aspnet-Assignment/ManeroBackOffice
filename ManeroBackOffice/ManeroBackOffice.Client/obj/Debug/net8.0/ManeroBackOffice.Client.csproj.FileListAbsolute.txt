@@ -1037,3 +1037,6 @@ C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffi
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\refint\ManeroBackOffice.Client.dll
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\ManeroBackOffice.Client.pdb
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\ref\ManeroBackOffice.Client.dll
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\CreateProduct.razor.rz.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\projectbundle\ManeroBackOffice.Client.bundle.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\ProductsMenu.razor.rz.scp.css

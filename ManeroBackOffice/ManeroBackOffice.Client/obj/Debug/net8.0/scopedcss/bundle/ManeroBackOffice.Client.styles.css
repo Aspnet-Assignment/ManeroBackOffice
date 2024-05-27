@@ -1,0 +1,12 @@
+/* /Pages/CreateProduct.razor.rz.scp.css */
+.submit-button[b-hl68ptkldk]{
+    display: flex;
+    flex-direction: column; 
+    margin-top: 2rem
+}
+/* /Pages/ProductsMenu.razor.rz.scp.css */
+.nav-buttons[b-xcz0pn1o3d] {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10rem;
+}

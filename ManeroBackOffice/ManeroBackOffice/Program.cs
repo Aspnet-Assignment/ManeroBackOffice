@@ -1,4 +1,3 @@
-using ManeroBackOffice.Client.Pages;
 using ManeroBackOffice.Components;
 using ManeroBackOffice.Components.Account;
 using ManeroBackOffice.Data;
@@ -12,6 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+
+builder.Services.AddHttpClient();
 
 builder.Services.AddCascadingAuthenticationState();
 builder.Services.AddScoped<IdentityUserAccessor>();

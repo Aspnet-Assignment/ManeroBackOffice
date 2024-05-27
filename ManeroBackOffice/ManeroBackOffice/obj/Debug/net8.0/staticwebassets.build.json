@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tszQGhg1EWOsrv23/d8bHGFPRv8po721Csjsn+S/MCs=",
+  "Hash": "jzpjebewLHkyuj60Kemh3k7lbZvwyi6RHh+0hIgqybA=",
   "Source": "ManeroBackOffice",
   "BasePath": "_content/ManeroBackOffice",
   "Mode": "Default",
@@ -7881,6 +7881,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XDocument.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManeroBackOffice.Client.bundle.scp.css",
+      "SourceId": "ManeroBackOffice.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "ManeroBackOffice.Client.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManeroBackOffice.Client.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\wwwroot\\appsettings.Development.json",

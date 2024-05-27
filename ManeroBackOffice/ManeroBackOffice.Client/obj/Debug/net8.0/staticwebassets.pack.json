@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
+      "Id": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ManeroBackOffice.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ManeroBackOffice.Client.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },

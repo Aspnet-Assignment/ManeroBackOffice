@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManeroBackOffice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae326bee67323c630988a204182a4f50920a5b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad362501ace6480d5177d06ff70322edcafbde14")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManeroBackOffice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManeroBackOffice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

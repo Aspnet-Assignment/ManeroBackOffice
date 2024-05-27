@@ -22,8 +22,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/Auth.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aC5yYXpvcg==
+[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/DeleteProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/UpdateProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/ViewProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/RedirectToLogin.razor]
@@ -33,3 +41,11 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/CreateProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-hl68ptkldk
+
+[C:/Users/Alexander/source/repos/ManeroBackOffice/ManeroBackOffice/ManeroBackOffice.Client/Pages/ProductsMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xcz0pn1o3d

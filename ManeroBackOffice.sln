@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManeroBackOffice", "ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.csproj", "{6675F342-75D7-4BF1-9BE7-2479D77B99BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManeroBackOffice", "ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.csproj", "{6675F342-75D7-4BF1-9BE7-2479D77B99BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManeroBackOffice.Client", "ManeroBackOffice\ManeroBackOffice.Client\ManeroBackOffice.Client.csproj", "{D81F49D9-9186-46A2-874F-0E493ED3129B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManeroBackOffice.Client", "ManeroBackOffice\ManeroBackOffice.Client\ManeroBackOffice.Client.csproj", "{D81F49D9-9186-46A2-874F-0E493ED3129B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

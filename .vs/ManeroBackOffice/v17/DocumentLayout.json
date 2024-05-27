@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\updateproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\updateproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\deleteproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\deleteproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\createproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\createproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\productsmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\productsmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\viewproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\viewproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\productsmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\productsmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice.client\\pages\\createproduct.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D81F49D9-9186-46A2-874F-0E493ED3129B}|ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj|solutionrelative:manerobackoffice\\manerobackoffice.client\\pages\\createproduct.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|solutionrelative:manerobackoffice\\manerobackoffice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6675F342-75D7-4BF1-9BE7-2479D77B99BA}|ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.csproj|c:\\users\\alexander\\source\\repos\\manerobackoffice\\manerobackoffice\\manerobackoffice\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,58 +91,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Auth.razor",
-              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\Auth.razor",
-              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\Auth.razor",
-              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\Auth.razor",
-              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\Auth.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "DeleteProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\DeleteProduct.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\DeleteProduct.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\DeleteProduct.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\DeleteProduct.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T16:11:10.754Z",
+              "WhenOpened": "2024-05-27T16:01:18.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T16:09:42.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T16:09:39.421Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Program.cs",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Program.cs",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:41:16.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductsMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T15:35:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:29:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:09:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\App.razor",
               "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\App.razor",
               "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\App.razor",
               "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T16:09:36.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:09:36.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\appsettings.json",
               "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\appsettings.json",
@@ -110,18 +174,43 @@
               "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T15:26:40.117Z",
+              "WhenOpened": "2024-05-22T15:26:40.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\UpdateProduct.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\UpdateProduct.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\UpdateProduct.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\UpdateProduct.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:29:41.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "ViewProduct.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ViewProduct.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ViewProduct.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ViewProduct.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ViewProduct.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:12:33.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Program.cs",
               "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Program.cs",
               "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Program.cs",
               "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T15:26:18.693Z",
               "EditorCaption": ""
@@ -129,6 +218,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ProductsMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor.css",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor.css",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor.css",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\ProductsMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T15:35:11.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Models\\ProductModel.cs",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:30:31.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProduct.razor.css",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor.css",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor.css",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor.css",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice.Client\\Pages\\CreateProduct.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T14:02:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:09:42.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\_Imports.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:26:11.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Components\\Routes.razor",
+              "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:26:14.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationDbContext.cs",
@@ -136,12 +298,11 @@
               "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:21.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:25:21.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationUser.cs",
@@ -149,8 +310,7 @@
               "RelativeToolTip": "ManeroBackOffice\\ManeroBackOffice\\Data\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:25:16.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:25:16.481Z"
             }
           ]
         }
