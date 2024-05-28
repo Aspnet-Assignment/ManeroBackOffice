@@ -1,11 +1,12 @@
 ﻿@page "/updateproduct"
-@* @attribute [Authorize] *@
+@attribute [Authorize]
 @rendermode InteractiveAuto
 
 @inject HttpClient Http
 @inject NavigationManager Navigation
 @using System.Text.Json
 @using ManeroBackOffice.Models
+@using Microsoft.AspNetCore.Authorization
 
 <h3>Update Product</h3>
 
@@ -13,7 +14,7 @@
     <label for="productId">Product ID</label>
     <InputText id="productId" class="form-control" @bind-Value="productId" />
 </div>
-<button class="btn btn-primary" @onclick="FetchProduct">Fetch Product</button>
+<button class="btn btn-primary" style="margin-top: 1rem;" @onclick="FetchProduct">Fetch Product</button>
 
 @if (!string.IsNullOrEmpty(fetchMessage))
 {
@@ -65,7 +66,7 @@
             <InputText id="imageUrl" class="form-control" @bind-Value="product.ImageUrl" />
         </div>
 
-        <button type="submit" class="btn btn-primary">Update</button>
+        <button type="submit" style="margin-top: 1rem;" class="btn btn-primary">Update</button>
     </EditForm>
 }
 
@@ -133,8 +134,6 @@
             if (response.IsSuccessStatusCode)
             {
                 fetchMessage = "Product updated successfully.";
-                // Navigate to a different page, e.g., product list if needed
-                // Navigation.NavigateTo("/products");
             }
             else
             {

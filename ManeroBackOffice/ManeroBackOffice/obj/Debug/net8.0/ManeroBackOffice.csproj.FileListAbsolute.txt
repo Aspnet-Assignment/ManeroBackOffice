@@ -167,3 +167,4 @@ C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffi
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\ManeroBackOffice.pdb
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\ManeroBackOffice.genruntimeconfig.cache
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\ref\ManeroBackOffice.dll
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css

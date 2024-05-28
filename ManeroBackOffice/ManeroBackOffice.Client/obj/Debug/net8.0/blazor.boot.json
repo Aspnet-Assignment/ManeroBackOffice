@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ManeroBackOffice.Client",
   "resources": {
-    "hash": "sha256-TdwdrJ3JVNbR8DyWXxxreNybV5V1wA/KMtWl87cYfxU=",
+    "hash": "sha256-jbNlVpfkG7h+fauCAgR/jF8iQH24A1t3DW3QxX2o5A8=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.7oygptmcpe.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -210,10 +210,10 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "ManeroBackOffice.Client.wasm": "sha256-fiO/AUJAsA2qcm2acmghxBUQfBFjR6gu0Z8sm1ZxNy4="
+      "ManeroBackOffice.Client.wasm": "sha256-Kgu42U8drE45GjaBOK2767u/x5/2zhE2xioLlvod9g8="
     },
     "pdb": {
-      "ManeroBackOffice.Client.pdb": "sha256-sMSo9H8AGCAlV9jNSMjOR9iMbBMngWdfbMIjjCohQp8="
+      "ManeroBackOffice.Client.pdb": "sha256-6SgSbpe1lbu/hf/cBNbobya4v8HmEBtltHclCRjGHfk="
     }
   },
   "cacheBootResources": true,

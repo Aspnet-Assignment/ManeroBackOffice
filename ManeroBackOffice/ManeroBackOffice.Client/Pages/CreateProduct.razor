@@ -1,5 +1,5 @@
 ﻿@page "/createproduct"
-@* @attribute [Authorize] *@
+@attribute [Authorize]
 @rendermode InteractiveAuto
 
 @inject HttpClient Http
@@ -40,7 +40,13 @@
     </div>
     <div class="form-group">
         <label for="size">Size</label>
-        <InputText id="size" class="form-control" @bind-Value="product.Size" />
+        <InputSelect id="size" class="form-control" @bind-Value="product.Size">
+            <option value="" disabled selected>Pick a size</option>
+            @foreach (var size in validSizes)
+            {
+                <option value="@size">@size</option>
+            }
+        </InputSelect>
         @if (sizeValidationError != null)
         {
             <div class="text-danger">@sizeValidationError</div>
@@ -75,7 +81,7 @@
 
     private async Task HandleValidSubmit()
     {
-        if (!validSizes.Contains(product.Size))
+        if (string.IsNullOrWhiteSpace(product.Size) || !validSizes.Contains(product.Size))
         {
             sizeValidationError = "Please enter a valid size (XS, S, M, L, XL)";
             return;
@@ -92,7 +98,6 @@
         if (response.IsSuccessStatusCode)
         {
             productCreatedSuccessfully = true;
-            // Reset the form
             product = new ProductModel();
             categories = string.Empty;
         }

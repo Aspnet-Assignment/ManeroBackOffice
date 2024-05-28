@@ -1,11 +1,12 @@
 ﻿@page "/findproduct"
-@* @attribute [Authorize] *@
+@attribute [Authorize]
 @rendermode InteractiveAuto
 
 @inject HttpClient Http
 @inject NavigationManager Navigation
 @using System.Text.Json
 @using ManeroBackOffice.Models
+@using Microsoft.AspNetCore.Authorization
 
 <h3>View Product</h3>
 
@@ -13,7 +14,7 @@
     <label for="productId">Product ID</label>
     <InputText id="productId" class="form-control" @bind-Value="productId" />
 </div>
-<button class="btn btn-primary" @onclick="FetchProduct">Search</button>
+<button class="btn btn-primary" style="margin-top: 1rem;" @onclick="FetchProduct">Search</button>
 
 @if (!string.IsNullOrEmpty(fetchMessage))
 {
