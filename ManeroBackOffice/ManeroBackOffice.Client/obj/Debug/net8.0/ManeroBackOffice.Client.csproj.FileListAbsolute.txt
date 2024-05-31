@@ -1040,3 +1040,11 @@ C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffi
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\CreateProduct.razor.rz.scp.css
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\projectbundle\ManeroBackOffice.Client.bundle.scp.css
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\ProductsMenu.razor.rz.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\CategoriesMenu.razor.rz.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm.gz
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\webcil\Newtonsoft.Json.wasm
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\compressed\5fv9oo1wxu.gz
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\ColorsMenu.razor.rz.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice.Client\obj\Debug\net8.0\scopedcss\Pages\SizesMenu.razor.rz.scp.css

@@ -168,3 +168,4 @@ C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffi
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\ManeroBackOffice.genruntimeconfig.cache
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\ref\ManeroBackOffice.dll
 C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Alexander\source\repos\ManeroBackOffice\ManeroBackOffice\ManeroBackOffice\bin\Debug\net8.0\Newtonsoft.Json.dll

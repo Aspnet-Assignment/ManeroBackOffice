@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0L0ps5kBLaXIrR49RmdyZlJSjXxdYT1FXOOVEMR28Jg=",
+  "Hash": "P9KYMUehcXVsv5/rClMslkoBhTgru5SpFmdf+XPdV38=",
   "Source": "ManeroBackOffice.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -870,6 +870,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\webcil\\netstandard.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm",
+      "SourceId": "ManeroBackOffice.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\webcil\\Newtonsoft.Json.wasm"
     },
     {
       "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.AppContext.wasm",
@@ -4499,6 +4518,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\compressed\\5fv9oo1wxu.gz",
+      "SourceId": "ManeroBackOffice.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Newtonsoft.Json.wasm"
     },
     {
       "Identity": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\obj\\Debug\\net8.0\\compressed\\5hk8qg382m.gz",

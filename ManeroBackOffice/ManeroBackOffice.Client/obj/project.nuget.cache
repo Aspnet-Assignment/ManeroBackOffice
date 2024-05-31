@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TvQvecaqruHD3SVwTXzaHc5qqK4z71Of/hqxxtEgNv9c0vvZJW0qgzayFs/C1qUgA1IXvqglcDXf6ssNltkM9A==",
+  "dgSpecHash": "JW1nb5mvmhzqPhVQRY05Rpbd2dGx+ELzO0fQvpR9rKdgPVOr5xgHPcKGZjvILF4LZa1tXtOtb6y/wgioHILGjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexander\\source\\repos\\ManeroBackOffice\\ManeroBackOffice\\ManeroBackOffice.Client\\ManeroBackOffice.Client.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
     "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
     "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Alexander\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexander\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexander\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
